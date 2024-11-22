@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amarachi Uvere Catherine (aka Anomalie)
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning software engineering at Alx Holberton School
+- 🌱 I’m currently learning new programming languages and picking up new skills
 - 💞️ I’m looking to collaborate on exciting software development projects
 - 📫 How to reach me: X- @amie23 LinkedIn- https://www.linkedin.com/in/amarachiuvere/
 - 😄 Pronouns: She/Her
